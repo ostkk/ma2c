@@ -21,7 +21,7 @@ It's a grid world environment having n agents where each agent wants to move the
 
 # result
 
-![image-20210321175417967](img\image-20210321175417967.png)
+![image-20210321175417967](img/image-20210321175417967.png)
 
 
 
